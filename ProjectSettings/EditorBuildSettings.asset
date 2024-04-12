@@ -4,5 +4,23 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ChenxuWang/MENU.unity
+    guid: b56419f628dbd38498b09edca6fea06f
+  - enabled: 1
+    path: Assets/ChenxuWang/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Shaofengzhang/shaofengzhang.unity
+    guid: 304a5748b784bc241be3c08d67013b21
+  - enabled: 1
+    path: Assets/yangrongzhao/yanrongzhao.unity
+    guid: e78c0c7318bf343459d9a3173eb170ab
+  - enabled: 1
+    path: Assets/Hongbaopan/HongboPan.unity
+    guid: 7759de288f5d4ee449a0ca5e2244944a
+  - enabled: 1
+    path: Assets/Zhaoxunliu/ZhaoxunLiu.unity
+    guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects: {}
